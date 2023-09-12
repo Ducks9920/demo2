@@ -1,1 +1,2 @@
 "hello from rodrigo o/" 
+goodbye from rodrigo 
